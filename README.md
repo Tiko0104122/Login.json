@@ -7,6 +7,6 @@
   {
     "user": "username2",
     "pass": "password2",
-    "vip": false
+    "vip": true
   }
 ]
